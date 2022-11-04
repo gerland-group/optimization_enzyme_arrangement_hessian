@@ -1,0 +1,37 @@
+{
+ "Nx": 30,
+ "Ny": 30,
+ "Nsteps": 100000000,
+ "alpha": 1.0,
+ "lambda": 0,
+ "det": 1.0e-2,
+ "tol": 1.0e-11,
+ "Nmem": 2,
+ "sources":
+ {
+  "source1":
+   {
+   "A_0": 1.0,
+   "x_pos": 5,
+   "y_pos": 5,
+   "x_size": 3,
+   "y_size": 7
+   },
+   "source2":
+   {
+   "A_0":1.0,
+   "x_pos":15,
+   "y_pos":25,
+   "x_size":5,
+   "y_size":2
+   },
+   "source3":
+   {
+   "A_0":1.0,
+   "x_pos":20,
+   "y_pos":10,
+   "x_size":3,
+   "y_size":4
+   }
+ }
+}

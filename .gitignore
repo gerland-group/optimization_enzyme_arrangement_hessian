@@ -1,0 +1,14 @@
+*~
+*.out
+*.o
+optimise
+evaluation
+*.eps
+*.nb
+*.avi
+video/
+src/.deps
+*.pdf
+scripts/frames.pdf
+*.svg
+*.nfs*
